@@ -1,0 +1,14 @@
+F:\Project\QuizServer\bin\Debug\netcoreapp2.1\QuizServer.deps.json
+F:\Project\QuizServer\bin\Debug\netcoreapp2.1\QuizServer.runtimeconfig.json
+F:\Project\QuizServer\bin\Debug\netcoreapp2.1\QuizServer.runtimeconfig.dev.json
+F:\Project\QuizServer\bin\Debug\netcoreapp2.1\QuizServer.dll
+F:\Project\QuizServer\obj\Debug\netcoreapp2.1\QuizServer.csprojAssemblyReference.cache
+F:\Project\QuizServer\obj\Debug\netcoreapp2.1\QuizServer.csproj.CoreCompileInputs.cache
+F:\Project\QuizServer\obj\Debug\netcoreapp2.1\QuizServer.RazorAssemblyInfo.cache
+F:\Project\QuizServer\obj\Debug\netcoreapp2.1\QuizServer.RazorAssemblyInfo.cs
+F:\Project\QuizServer\obj\Debug\netcoreapp2.1\QuizServer.AssemblyInfoInputs.cache
+F:\Project\QuizServer\obj\Debug\netcoreapp2.1\QuizServer.AssemblyInfo.cs
+F:\Project\QuizServer\obj\Debug\netcoreapp2.1\QuizServer.RazorTargetAssemblyInfo.cache
+F:\Project\QuizServer\bin\Debug\netcoreapp2.1\QuizServer.pdb
+F:\Project\QuizServer\obj\Debug\netcoreapp2.1\QuizServer.dll
+F:\Project\QuizServer\obj\Debug\netcoreapp2.1\QuizServer.pdb
